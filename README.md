@@ -17,8 +17,6 @@
   - [Installation](#installation)
   - [Running the Notebooks](#running-the-notebooks)
 - [Notebooks](#notebooks)
-- [Outputs](#outputs)
-- [Authors](#authors)
 
 ---
 
@@ -48,6 +46,8 @@ Raw data is downloaded programmatically in `01_ingest.ipynb` and saved to `data/
 ```
 COMP6940-A1/
 ├── README.md
+├── pyproject.toml
+├── uv.lock
 ├── requirements.txt
 ├── data/
 │   ├── raw/
@@ -82,7 +82,7 @@ COMP6940-A1/
 git clone https://github.com/aaanthonyyy/COMP6940-A1.git && cd COMP6940-A1
 ```
 
-1. **Create and activate a virtual environment**
+2. **Create and activate a virtual environment**
 
 Using `uv` (recommended):
 
