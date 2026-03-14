@@ -3,6 +3,10 @@ data/**/**/*.parquet
 data/**/*.parquet
 data/*.parquet
 
+data/**/**/*.csv
+data/**/*.csv
+data/*.csv
+
 # Plots
 part1_taxi/*.png
 
