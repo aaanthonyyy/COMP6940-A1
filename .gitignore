@@ -1,3 +1,15 @@
+# Data
+data/**/**/*.parquet
+data/**/*.parquet
+data/*.parquet
+
+data/**/**/*.csv
+data/**/*.csv
+data/*.csv
+
+# Plots
+part1_taxi/*.png
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
